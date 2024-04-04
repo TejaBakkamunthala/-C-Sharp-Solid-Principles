@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|f:\\dotnetprogramss\\solidprinciples1\\solidprinciples1\\ispworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\ispworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\notispworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\notispworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\liskovsubstitutionprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\liskovsubstitutionprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\ocpshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\ocpshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\srpmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\srpmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\notocpshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\notocpshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\notsrpemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\notsrpemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\solidprinciples1\\srpemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F489E9C-6FAD-4785-BBFF-1DAF55A87BC1}|SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1.csproj|solutionrelative:solidprinciples1\\srpemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISPWorker.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\ISPWorker.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\ISPWorker.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\ISPWorker.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\ISPWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:45:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotISPWorker.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\NotISPWorker.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\NotISPWorker.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\NotISPWorker.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\NotISPWorker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:43:19.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiskovSubstitutionPrinciple.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\LiskovSubstitutionPrinciple.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\LiskovSubstitutionPrinciple.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\LiskovSubstitutionPrinciple.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\LiskovSubstitutionPrinciple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:29:14.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OCPShapes.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\OCPShapes.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\OCPShapes.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\OCPShapes.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\OCPShapes.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:03:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotOCPShapes.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\NotOCPShapes.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\NotOCPShapes.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\NotOCPShapes.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\NotOCPShapes.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:54:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotSRPEmployee.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\NotSRPEmployee.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\NotSRPEmployee.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\NotSRPEmployee.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\NotSRPEmployee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:18:58.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SRPEmployee.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\SRPEmployee.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\SRPEmployee.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\SRPEmployee.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\SRPEmployee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:18:03.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SRPMembership.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\SRPMembership.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\SRPMembership.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\SRPMembership.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\SRPMembership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:44:20.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\Program.cs",
+              "RelativeDocumentMoniker": "SOLIDPRINCIPLES1\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\SOLIDPRINCIPLES1\\SOLIDPRINCIPLES1\\Program.cs",
+              "RelativeToolTip": "SOLIDPRINCIPLES1\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:43:32.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
